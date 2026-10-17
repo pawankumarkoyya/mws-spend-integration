@@ -32,6 +32,24 @@
     },
     {
       "path": "./packages/shared/test-utils"
+    },
+    {
+      "path": "./apps/ui"
+    },
+    {
+      "path": "./services/integrations-e2e"
+    },
+    {
+      "path": "./services/integrations"
+    },
+    {
+      "path": "./libs/backend-utils"
+    },
+    {
+      "path": "./libs/shared-services"
+    },
+    {
+      "path": "./libs/shared-models"
     }
   ]
 }
